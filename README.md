@@ -1,3 +1,7 @@
+```
+图片中文字识别，pure js library
+```
+
 <p align="center">
   <a href="https://tesseract.projectnaptha.com/">
     <picture>
